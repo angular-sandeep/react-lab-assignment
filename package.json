@@ -8,7 +8,7 @@
     "compile": "webpack --config ./webpack.config.js --progress"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sandeep Pal",
   "license": "ISC",
   "devDependencies": {
     "@types/react": "^16.0.40",
