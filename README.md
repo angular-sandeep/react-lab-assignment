@@ -1,10 +1,9 @@
 # react-app
-This is complete MERN App based on product model.
-
-  - api/server.js
-    - This file having web API for node server.
-  - components/application/productUIComponent.jsx
-    - This file having react component.
+  This repo having three react excercises.
+    * Dynamic table row and heading generation.
+    * Dockerization of react APP
+    * Sorting and reverse of React Data Grid Elements
+    * API calling for Product Info using Express/Node server API.
 
 ## Steps to work application
 
