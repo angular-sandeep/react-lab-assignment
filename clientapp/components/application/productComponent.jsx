@@ -191,9 +191,9 @@ class ProductComponent extends Component {
           <table className="table table-bordered table-stripted">
             <thead>
               <tr>
-                {Object.keys(this.state.Products[0]).map((h,i) => {
+                {Object.keys(this.state.Products[0]).map((h, i) => (
                   <th>{h}</th>
-                })}
+                ))}
                 {/* <th>Product Id</th>
                 <th>Product Name</th>
                 <th>Category Name</th>
@@ -225,13 +225,10 @@ class Options extends Component {
 }
 
 class TableHeader extends Component {
-  render() { 
-    return ( 
-      <th>{this.props.header}</th>
-     );
+  render() {
+    return <th>{this.props.header}</th>;
   }
 }
- 
 
 class TableRow extends Component {
   constructor(props) {

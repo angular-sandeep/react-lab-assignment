@@ -20,7 +20,7 @@ class ProductUIComponent extends Component {
           CategoryName: "",
           Manufacturer: "",
           Price: 0
-        }
+        },
       ],
       Categories: ["Electrical", "Electronics", "Food"],
       Manufacturers: ["AB Teach", "CD Power", "EF Beverages"],
