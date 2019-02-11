@@ -1,5 +1,5 @@
 # react-app
-  This repo having three react excercises.
+  #### This repo having three react excercises
     * Dynamic table row and heading generation.
     * Dockerization of react APP
     * Sorting and reverse of React Data Grid Elements
